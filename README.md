@@ -13,3 +13,6 @@ Big with both software and hardware, find me working on embedded stuff 💻
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
+Want to reach out? Go to my website so I know ur not a bot and I can captcha you :)
+https://dotatlas.dev

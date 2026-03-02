@@ -1,4 +1,4 @@
-Big with both software and hardware, find me working on embedded stuff 💻
+Big with both software and hardware, find me working on embedded stuff at work mostly 💻
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
